@@ -1,0 +1,3 @@
+options_version='Client: v2.11.0+g2e55dbe'
+options='hn:f:'
+longoptions='ca-file:,cert-file:,dep-up,description:,devel,dry-run,help,key-file:,keyring:,name:,name-template:,namespace:,no-crd-hook,no-hooks,password:,replace,repo:,set:,set-file:,set-string:,timeout:,tls,tls-ca-cert:,tls-cert:,tls-hostname:,tls-key:,tls-verify,username:,values:,verify,version:,wait'

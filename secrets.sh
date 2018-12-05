@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-set -x	
+set -xe
 # The suffix to use for decrypted files. The default can be overridden using
 # the HELM_SECRETS_DEC_SUFFIX environment variable.
 DEC_SUFFIX="${HELM_SECRETS_DEC_SUFFIX:-.dec}"
